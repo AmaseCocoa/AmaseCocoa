@@ -1,4 +1,4 @@
-[![](https://fedibadges.sonyakun.com/followers?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc) [![](https://fedibadges.sonyakun.com/posts?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc)
+[![](https://fedibadges.vercel.app/followers?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc) [![](https://fedibadges.vercel.app/posts?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc)
 
 ## Skills
 
