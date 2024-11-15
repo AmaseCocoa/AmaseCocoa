@@ -1,5 +1,3 @@
-[![](https://fedibadges.vercel.app/followers?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc) [![](https://fedibadges.vercel.app/posts?username=cocoa_vrc&host=misskey.io&software=misskey)](https://misskey.io/@cocoa_vrc)
-
 ## Skills
 
 [![Python3](https://img.shields.io/static/v1?label=&message=Python3&color=yellow&logo=python)](https://python.org) [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=%235e5e5e&logo=FastAPI)](https://fastapi.tiangolo.com/ja/)
