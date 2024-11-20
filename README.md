@@ -27,6 +27,10 @@ https://github.com/AmaseCocoa/apsig
 いい感じ™のテーマがなかったから作った落ち着いたテーマ
 
 https://github.com/AmaseCocoa/chillout-theme
+### midist
+コマンドを打つだけでテーマとかプラグインの配布の手間を減らしてくれるツール
+
+https://github.com/AmaseCocoa/midist
 
 ## Links
 <img src="https://media.misskeyusercontent.jp/io/48c1dd5a-877b-4626-98e7-76cd404282fa.png" height="25" width="25"> [Misskey.io](https://misskey.io/@cocoa_vrc)
