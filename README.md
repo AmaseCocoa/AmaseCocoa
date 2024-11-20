@@ -29,9 +29,10 @@ https://github.com/AmaseCocoa/apsig
 https://github.com/AmaseCocoa/chillout-theme
 
 ## Links
-* [Misskey.io](https://misskey.io/@cocoa_vrc)
-* [はなみすきー](https://misskey.flowers/@AmaseCocoa)
-* [あむすきー](https://mi.amase.xyz/@AmaseCocoa)
-* [misskey.niri.la](https://misskey.niri.la/@AmaseCocoa)
+<img src="https://media.misskeyusercontent.jp/io/48c1dd5a-877b-4626-98e7-76cd404282fa.png" height="25" width="25"> [Misskey.io](https://misskey.io/@cocoa_vrc)
 
-[PyPI](https://pypi.org/AmaseCocoa)
+<img src="https://misskey.flowers/favicon.ico" height="25" width="25"> [はなみすきー](https://misskey.flowers/@AmaseCocoa)
+
+<img src="https://mi.amase.xyz/favicon.ico" height="25" width="25"> [あむすきー](https://mi.amase.xyz/@AmaseCocoa)
+
+<img src="[https://pypi.org/favicon.ico](https://pypi.org/static/images/twitter.abaf4b19.webp)" height="25" width="25"> [PyPI](https://pypi.org/AmaseCocoa)
