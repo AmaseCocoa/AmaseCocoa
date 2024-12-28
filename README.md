@@ -1,3 +1,5 @@
+![](https://count.getloli.com/get/@AmaseCocoa?theme=moebooru)  
+
 ## Skills
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AmaseCocoa&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" /> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaseCocoa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaseCocoa&theme=tokyonight)
 
