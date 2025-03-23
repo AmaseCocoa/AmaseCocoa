@@ -34,6 +34,9 @@ https://github.com/AmaseCocoa/chillout-theme
 
 https://github.com/AmaseCocoa/midist
 
+### ???
+とあるサーバー用のパネルの日本語訳もしてます
+
 ## Links
 <img src="https://media.misskeyusercontent.jp/io/48c1dd5a-877b-4626-98e7-76cd404282fa.png" height="25" width="25"> [Misskey.io](https://misskey.io/@cocoa_vrc)
 
