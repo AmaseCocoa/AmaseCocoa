@@ -1,47 +1,26 @@
 ![](https://count.getloli.com/get/@AmaseCocoa?theme=moebooru)  
 
-## Skills
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AmaseCocoa&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" /> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaseCocoa&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaseCocoa&theme=tokyonight)
+## I am
+- Pythonista
+  - I started writing the program about four years ago
+    - I can also do some Rust, Nim, C and Go. If it's a little...
+      - I think Vue and JavaScript can write than these (but, write advanced code is subtle)
+- ActivityPub Developer
+  - I'm Author of [apkit](https://github.com/fedi-libs/apkit)/[apsig](https://github.com/fedi-libs/apsig)/[apmodel](https://github.com/fedi-libs/apmodel)
+    - ...and creating [Kagura](https://join.kagura.social). apkit-based microblog software
+- Cute Fox or Wolf or Cat :D
 
-## Skills
-### つかえる
-[![My Skills](https://skillicons.dev/icons?i=activitypub,go,python,prisma,vue,nuxtjs,html,tailwind,misskey)](https://skillicons.dev)
-#### 少しだけできる
-###### ※チョットデキルではない
-[![My Skills](https://skillicons.dev/icons?i=js,aiscript,css)](https://skillicons.dev)
+## I am not
+- Career programmer
+  - I don't career programmer (at least not right now)
+- Not that I think everything should be open source.
+  - OSS has both drawbacks and advantages.
 
-### つかえない
-だって...むずかしいんだもん....
-
-[![My Skills](https://skillicons.dev/icons?i=rust,django)](https://skillicons.dev)
-## わーくす
-<!-- みたな！？！？！？！？ つかまえるぞ！！！！
-### Kagura
-開発中のActivityPub実装。
-
-https://github.com/kagura-soc/kagura
--->
-### apsig
-ActivityPubのHTTP Signatures (draft-cavage-http-signatures-12), Linked Data Signatures, Object Integrity Proofs (FEP-8b32)を実装したもの
-
-https://github.com/AmaseCocoa/apsig
-### Chilout Theme
-いい感じ™のテーマがなかったから作った落ち着いたテーマ
-
-https://github.com/AmaseCocoa/chillout-theme
-### midist
-コマンドを打つだけでテーマとかプラグインの配布の手間を減らしてくれるツール
-
-https://github.com/AmaseCocoa/midist
-
-### ???
-とあるサーバー用のパネルの日本語訳もしてます
-
-## Links
-<img src="https://media.misskeyusercontent.jp/io/48c1dd5a-877b-4626-98e7-76cd404282fa.png" height="25" width="25"> [Misskey.io](https://misskey.io/@cocoa_vrc)
-
-<img src="https://misskey.flowers/favicon.ico" height="25" width="25"> [はなみすきー](https://misskey.flowers/@AmaseCocoa)
-
-<img src="https://mi.amase.xyz/favicon.ico" height="25" width="25"> [あむすきー](https://mi.amase.xyz/@AmaseCocoa)
-
-<img src="[https://pypi.org/favicon.ico](https://pypi.org/static/images/twitter.abaf4b19.webp)" height="25" width="25"> [PyPI](https://pypi.org/AmaseCocoa)
+## (No one is asking for it) QA
+- How did it get that name?
+  - I like Cocoa and sweets
+- What languages do you speak?
+  - Japanese (Native)
+  - English (little, not proficient)
+- What do I call you?
+  - Call me "Cocoa" or "Amase" as you like :)
