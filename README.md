@@ -24,3 +24,6 @@
   - English (little, not proficient)
 - What do I call you?
   - Call me "Cocoa" or "Amase" as you like :)
+
+## Links
+- [PyPI](https://pypi.org/user/AmaseCocoa/)
