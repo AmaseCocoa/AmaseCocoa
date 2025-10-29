@@ -3,9 +3,10 @@
 ## I am
 - Pythonista
   - I started writing the program about four years ago
-    - I can also do some ~~Rust~~, Nim, C and Go. If it's a little...
+    - I can also do some ~~Rust~~, Nim, ~~C~~ and Go. If it's a little...
       - ~~I think Vue and JavaScript can write than these (but, write advanced code is subtle)~~
         - Now, I can make CMS/Advanced System backend and frontend with Hono/Elysia and Vue :)
+        - I learning Rust...
 - ActivityPub Developer
   - I'm Author of [apkit](https://github.com/fedi-libs/apkit)/[apsig](https://github.com/fedi-libs/apsig)/[apmodel](https://github.com/fedi-libs/apmodel)
     - ...and creating [Kagura](https://join.kagura.social). apkit-based microblog software
