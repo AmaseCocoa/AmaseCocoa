@@ -1,31 +1,42 @@
-![](https://count.getloli.com/get/@AmaseCocoa?theme=moebooru)  
+Hey! I'm **AmaseCocoa** (Japanese: 甘瀬ここあ), I'm a student OSS developer based in Japan.
 
-## I am
-- Pythonista
-  - I started writing the program about four years ago
-    - I can also do some ~~Rust~~, Nim, ~~C~~ and Go. If it's a little...
-      - ~~I think Vue and JavaScript can write than these (but, write advanced code is subtle)~~
-        - Now, I can make CMS/Advanced System backend and frontend with Hono/Elysia and Vue :)
-        - I learning Rust...
-- ActivityPub Developer
-  - I'm Author of [apkit](https://github.com/fedi-libs/apkit)/[apsig](https://github.com/fedi-libs/apsig)/[apmodel](https://github.com/fedi-libs/apmodel)
-    - ...and creating [Kagura](https://join.kagura.social). apkit-based microblog software
-- Cute Fox or Wolf or Cat :D
+I'm interested in this stack/technologies:
 
-## I am not
-- Career programmer
-  - I don't career programmer (at least not right now)
-- Not that I think everything should be open source.
-  - OSS has both drawbacks and advantages.
+### 🛠 Interests
+I'm interested in and currently working with these technologies:
 
-## (No one is asking for it) QA
-- How did it get that name?
-  - I like Cocoa and sweets
-- What languages do you speak?
-  - Japanese (Native)
-  - English (little, not proficient)
-- What do I call you?
-  - Call me "Cocoa" or "Amase" as you like :)
+- **Federated Protocol:** I making libraries to implement [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub) in Python.
+- **Specialized SLMs (Small Language Models):** Optimizing and fine-tuning existing LLMs to create lightweight, task-specific models. I focus on reducing human psychological burden by developing AI that can neutralize aggressive language (e.g., customer harassment) in real-time.
+- **HTTP Stack:** I have actually worked on implementing the HTTP protocol.
 
-## Links
-- [PyPI](https://pypi.org/user/AmaseCocoa/)
+### Tech Stacks
+- 🐍 Python
+- 🟦 TypeScript
+  - 🟢 Vue
+  - 🚀 Astro
+- 🦀 Rust
+- 🛠️ Kotlin
+
+## Works
+
+### [apkit](https://apkit.fedi-libs.org)
+The author of apkit, a Python toolkit designed to make building your own ActivityPub server or client easier. It simplifies the complexities of the Fediverse for developers.
+- Simplifies the creation of custom ActivityPub servers and clients.
+- Focuses on ease of use for developers.
+
+### [alter](https://github.com/AmaseCocoa/alter)
+A handy CLI tool for switching Git profiles (username, email, and credentials) in one line, written in Rust.
+
+### [Materia Mail](https://mm.amase.cc) (WIP)
+A new webmail client designed with ease of use and simplicity of deployment in mind.
+
+...and, More!
+
+## Contact
+
+If you're interested in my projects or want to talk about decentralized protocols and SLMs, feel free to reach out!
+
+- **Fediverse:** [@AmaseCocoa@ak.amase.cc](https://r.amase.cc/fedi-main)
+- **GitHub:** [AmaseCocoa](https://r.amase.cc/github)
+<!-- - **Email:** [Hello!](There is nothing here.) -->
+- **Website:** [amase.cc](https://amase.cc)
