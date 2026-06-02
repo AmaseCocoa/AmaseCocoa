@@ -6,7 +6,6 @@ I'm interested in this stack/technologies:
 I'm interested in and currently working with these technologies:
 
 - **Federated Protocol:** I making libraries to implement [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub) in Python.
-- **Specialized SLMs (Small Language Models):** Optimizing and fine-tuning existing LLMs to create lightweight, task-specific models. I focus on reducing human psychological burden by developing AI that can neutralize aggressive language (e.g., customer harassment) in real-time.
 - **HTTP Stack:** I have actually worked on implementing the HTTP protocol.
 
 ### Tech Stacks
