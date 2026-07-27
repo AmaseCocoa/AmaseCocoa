@@ -1,0 +1,32 @@
+{
+  "name": "md-dsl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm build && node dist/index.mjs",
+    "build": "tsdown"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.13.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "dependencies": {
+    "chevrotain": "^13.0.0",
+    "minijinja-js": "^2.21.0",
+    "rss-parser": "^3.13.0",
+    "valibot": "^1.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "tsdown": "^0.22.14",
+    "typescript": "^7.0.2"
+  }
+}
