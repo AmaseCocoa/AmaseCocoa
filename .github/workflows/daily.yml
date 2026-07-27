@@ -1,0 +1,47 @@
+name: Daily Build and Push
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          version: 11
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run script
+        run: pnpm run start
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add -A
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: automatic update by GitHub Actions [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes detected. Skipping commit."
+          fi

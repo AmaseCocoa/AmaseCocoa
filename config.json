@@ -1,0 +1,10 @@
+{
+    "CAPELLA": {
+        "url": "https://tw.amase.cc/rss.xml",
+        "limit": 3
+    },
+    "QIITA": {
+        "url": "https://qiita.com/AmaseCocoa/feed",
+        "limit": 3
+    }
+}
