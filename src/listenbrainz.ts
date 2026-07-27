@@ -7,7 +7,7 @@ async function getRecentMusic(userName: string) {
     {
       method: "GET",
       headers: {
-        Authorization: `Token {}`,
+        Authorization: process.env.LISTENBRAINZ_TOKEN ? `Token ${process.env.LISTENBRAINZ_TOKEN}`: '',
       },
     },
   );

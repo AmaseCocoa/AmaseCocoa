@@ -27,8 +27,8 @@ async function processTemplate(text: string) {
       let newContent: string = '';
       if (sectionName === "LISTENBRAINZ") {
         newContent = await renderMarkdown('AmaseCocoa')
-      } else {
-        const section = config[sectionName];
+      } else if (config.feed.enable) {
+        const section = config.feed.config[sectionName];
 
         const feed = await parser.parseURL(section.url);
 

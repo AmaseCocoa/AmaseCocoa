@@ -1,12 +1,30 @@
 実はここには何もないらしい
 
 <details>
+<summary>Stats</summary>
+
+<table border="0">
+  <tr>
+    <td align="center" width="300"><img src="https://streak-stats.demolab.com/?user=AmaseCocoa" alt="GitHub Streak" /></td>
+    <td align="center" width="200"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=AmaseCocoa&layout=donut&langs_count=6&theme=tokyonight" alt="GitHub Lang Stats" /></td>
+    <td align="center" width="300"><img src="https://github-stats-extended.vercel.app/api?username=AmaseCocoa&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" /></td>
+  </tr>
+</table>
+
+</details>
+
+<br />
+
+<details>
 <summary>最近聴いている曲</summary>
 
 <!-- START-LISTENBRAINZ -->
+データの取得に失敗しました
 <!-- END-LISTENBRAINZ -->
 
 </details>
+
+
 
 ## 最近の記事
 

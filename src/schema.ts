@@ -39,13 +39,22 @@ export const ResponseSchema = v.object({
 
 export type ResponseData = v.InferOutput<typeof ResponseSchema>;
 
-const ConfigSchema = v.record(
-  v.string(),
-  v.object({
-    url: v.pipe(v.string(), v.url()),
-    limit: v.number(),
+const ConfigSchema = v.object({
+  listenbrainz: v.object({
+    enable: v.boolean(),
+    username: v.string(),
   }),
-);
+  feed: v.object({
+    enable: v.boolean(),
+    config: v.record(
+      v.string(),
+      v.object({
+        url: v.pipe(v.string(), v.url()),
+        limit: v.number(),
+      }),
+    ),
+  }),
+});
 
 export function parseConfig() {
   try {

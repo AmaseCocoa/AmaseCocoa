@@ -1,10 +1,19 @@
 {
-    "CAPELLA": {
+  "listenbrainz": {
+    "enable": true,
+    "username": "AmaseCocoa"
+  },
+  "feed": {
+    "enable": true,
+    "config": {
+      "CAPELLA": {
         "url": "https://tw.amase.cc/rss.xml",
         "limit": 3
-    },
-    "QIITA": {
+      },
+      "QIITA": {
         "url": "https://qiita.com/AmaseCocoa/feed",
         "limit": 3
+      }
     }
+  }
 }
