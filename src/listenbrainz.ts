@@ -1,6 +1,5 @@
 import * as v from "valibot";
-import { ResponseData, ResponseSchema } from "./schema";
-import { table } from "node:console";
+import { ResponseSchema } from "./schema";
 
 async function getRecentMusic(userName: string) {
   const result = await fetch(
