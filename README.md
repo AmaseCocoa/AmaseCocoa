@@ -1,5 +1,13 @@
 実はここには何もないらしい
 
+<details>
+<summary>最近聴いている曲</summary>
+
+<!-- START-LISTENBRAINZ -->
+<!-- END-LISTENBRAINZ -->
+
+</details>
+
 ## 最近の記事
 
 ### [Capella](https://tw.amase.cc)

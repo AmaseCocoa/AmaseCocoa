@@ -1,6 +1,7 @@
 import Parser from "rss-parser";
 import { parseConfig } from "./schema";
-import * as fs from 'node:fs/promises';
+import * as fs from "node:fs/promises";
+import { renderMarkdown } from "./listenbrainz";
 
 const config = parseConfig();
 
@@ -23,19 +24,24 @@ async function processTemplate(text: string) {
       const sectionName = match[2];
       const endTag = match[4];
 
-      const section = config[sectionName];
+      let newContent: string = '';
+      if (sectionName === "LISTENBRAINZ") {
+        newContent = await renderMarkdown('AmaseCocoa')
+      } else {
+        const section = config[sectionName];
 
-      const feed = await parser.parseURL(section.url);
+        const feed = await parser.parseURL(section.url);
 
-      const links: string[] = [];
-      feed.items.slice(0, section.limit).forEach((item) => {
-        links.push(`- [${item.title}](${item.link})`);
-      });
+        const links: string[] = [];
+        feed.items.slice(0, section.limit).forEach((item) => {
+          links.push(`- [${item.title}](${item.link})`);
+        });
 
-      const newContent = links.join("\n");
+        newContent = links.join("\n");
+      }
 
       const replacement = `${startTag}\n${newContent}\n${endTag}`;
-      result = result.replace(fullMatch, replacement);
+        result = result.replace(fullMatch, replacement);
     }
   }
 
@@ -43,9 +49,9 @@ async function processTemplate(text: string) {
 }
 
 (async () => {
-  const readme = await fs.readFile('README.md');
+  const readme = await fs.readFile("README.md");
 
   const res = await processTemplate(readme.toString());
 
-  await fs.writeFile('README.md', res);
+  await fs.writeFile("README.md", res);
 })();

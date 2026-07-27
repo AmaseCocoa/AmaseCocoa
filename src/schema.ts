@@ -1,6 +1,43 @@
-import * as fs from "fs";
+import * as fs from "node:fs";
 
 import * as v from "valibot";
+
+export const ArtistSchema = v.object({
+  artist_credit_name: v.string(),
+  artist_mbid: v.string(),
+  join_phrase: v.string(),
+});
+
+export const RecordingSchema = v.object({
+  artist_mbids: v.array(v.string()),
+  artist_name: v.string(),
+  artists: v.array(ArtistSchema),
+  caa_id: v.number(),
+  caa_release_mbid: v.string(),
+  listen_count: v.number(),
+  recording_mbid: v.string(),
+  release_mbid: v.string(),
+  release_name: v.string(),
+  track_name: v.string(),
+});
+
+export const PayloadSchema = v.object({
+  count: v.number(),
+  from_ts: v.number(),
+  last_updated: v.number(),
+  offset: v.number(),
+  range: v.string(),
+  recordings: v.array(RecordingSchema),
+  to_ts: v.number(),
+  total_recording_count: v.number(),
+  user_id: v.string(),
+});
+
+export const ResponseSchema = v.object({
+  payload: PayloadSchema,
+});
+
+export type ResponseData = v.InferOutput<typeof ResponseSchema>;
 
 const ConfigSchema = v.record(
   v.string(),

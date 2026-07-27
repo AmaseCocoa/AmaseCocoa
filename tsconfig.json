@@ -17,5 +17,5 @@
 
     "types": ["node"]
   },
-  "include": ["AmaseCocoa/src/**/*"]
+  "include": ["src/**/*"]
 }
