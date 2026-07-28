@@ -19,11 +19,7 @@
 <summary>最近聴いている曲 Top3</summary>
 
 <!-- START-LISTENBRAINZ -->
-| Artist | Track |
-| ---- | ---- |
-| [さユり](https://listenbrainz.org/artist/efc787f0-046f-4a60-beff-77b398c8cdf4) | [酸欠少女](https://listenbrainz.org/track/af10c867-98e1-498c-9a59-525784aae04d) |
-| [百鬼あやめ](https://listenbrainz.org/artist/57711cb0-e465-4238-92ff-d523bb00afae) | [melting](https://listenbrainz.org/track/84c5409f-5ca3-4f70-af63-3434eedbadf9) |
-| [Mrs. GREEN APPLE](https://listenbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2) | [StaRt](https://listenbrainz.org/track/29725ef5-3a65-4585-b365-9742fcc084e0) |
+データなし
 <!-- END-LISTENBRAINZ -->
 
 </details>
