@@ -1,7 +1,7 @@
 import * as v from "valibot";
 import { parseConfig, ResponseSchema } from "./schema";
 
-const config = parseConfig()
+const config = parseConfig();
 
 async function getRecentMusic(userName: string) {
   const result = await fetch(
@@ -9,7 +9,9 @@ async function getRecentMusic(userName: string) {
     {
       method: "GET",
       headers: {
-        Authorization: process.env.LISTENBRAINZ_TOKEN ? `Token ${process.env.LISTENBRAINZ_TOKEN}`: '',
+        Authorization: process.env.LISTENBRAINZ_TOKEN
+          ? `Token ${process.env.LISTENBRAINZ_TOKEN}`
+          : "",
       },
     },
   );
@@ -17,33 +19,52 @@ async function getRecentMusic(userName: string) {
     const rawData = await result.json();
     const parsedData = v.safeParse(ResponseSchema, rawData);
     if (!parsedData.success) {
-        throw Error(`${parsedData.issues}`)
+      throw Error(`${parsedData.issues}`);
     }
 
-    return parsedData
+    return {
+      success: true,
+      data: parsedData,
+    };
+  } else if (result.status === 204) {
+    return {
+      success: true,
+      data: null,
+    };
   }
 
-  return null
+  return {
+    success: false,
+    data: null,
+  };
 }
 
 export async function renderMarkdown(username: string) {
-    const data = await getRecentMusic(username);
+  const result = await getRecentMusic(username);
 
-    if (!data) {
-        return `データの取得に失敗しました`
-    }
+  if (!result.success && !result.data) {
+    return `データの取得に失敗しました`;
+  } else if (result.success && !result.data) {
+    return `データなし`
+  }
 
-    const baseTable = `| Artist | Track |
+  const data = result.data?.output.payload
+
+  const baseTable = `| Artist | Track |
 | ---- | ---- |`;
-    let tableElem: string[] = [];
+  let tableElem: string[] = [];
 
-    data.output.payload.recordings.map((d) => {
-        let artists: string[] = [];
-        d.artists.map((artist) => {
-            artists.push(`[${artist.artist_credit_name}](https://listenbrainz.org/artist/${artist.artist_mbid})`)
-        })
-        tableElem.push(`| ${artists.join(',')} | [${d.track_name}](https://listenbrainz.org/track/${d.recording_mbid}) |`)
-    })
+  data?.recordings.map((d) => {
+    let artists: string[] = [];
+    d.artists.map((artist) => {
+      artists.push(
+        `[${artist.artist_credit_name}](https://listenbrainz.org/artist/${artist.artist_mbid})`,
+      );
+    });
+    tableElem.push(
+      `| ${artists.join(",")} | [${d.track_name}](https://listenbrainz.org/track/${d.recording_mbid}) |`,
+    );
+  });
 
-    return baseTable + "\n" + tableElem.join('\n')
+  return baseTable + "\n" + tableElem.join("\n");
 }
