@@ -21,9 +21,6 @@
 <!-- START-LISTENBRAINZ -->
 | Artist | Track |
 | ---- | ---- |
-| [なきそ](https://listenbrainz.org/artist/d81b60ca-c93d-4aef-b764-006c8e25688d) | [いますぐ輪廻](https://listenbrainz.org/track/a64aec31-4ce6-44ca-9ca4-c3be8f8809ce) |
-| [もちうつね](https://listenbrainz.org/artist/a1ef1c7b-aa47-4421-8f4d-8bea236c853e) | [おくすり飲んで寝よう](https://listenbrainz.org/track/eaf7014d-178d-4c35-a0d0-e77e2e326f0d) |
-| [猫又おかゆ](https://listenbrainz.org/artist/3b1112b5-93c7-4dc9-a4c6-32b016921fe3) | [青い傷](https://listenbrainz.org/track/200c6061-9973-413c-a0a1-a286cf92d9a9) |
 | [さユり](https://listenbrainz.org/artist/efc787f0-046f-4a60-beff-77b398c8cdf4) | [酸欠少女](https://listenbrainz.org/track/af10c867-98e1-498c-9a59-525784aae04d) |
 | [百鬼あやめ](https://listenbrainz.org/artist/57711cb0-e465-4238-92ff-d523bb00afae) | [melting](https://listenbrainz.org/track/84c5409f-5ca3-4f70-af63-3434eedbadf9) |
 | [Mrs. GREEN APPLE](https://listenbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2) | [StaRt](https://listenbrainz.org/track/29725ef5-3a65-4585-b365-9742fcc084e0) |
