@@ -43,6 +43,8 @@ const ConfigSchema = v.object({
   listenbrainz: v.object({
     enable: v.boolean(),
     username: v.string(),
+    range: v.string(),
+    count: v.number()
   }),
   feed: v.object({
     enable: v.boolean(),

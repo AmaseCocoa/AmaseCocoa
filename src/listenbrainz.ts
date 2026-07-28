@@ -1,9 +1,11 @@
 import * as v from "valibot";
-import { ResponseSchema } from "./schema";
+import { parseConfig, ResponseSchema } from "./schema";
+
+const config = parseConfig()
 
 async function getRecentMusic(userName: string) {
   const result = await fetch(
-    `https://api.listenbrainz.org/1/stats/user/${userName}/recordings?range=week&count=2`,
+    `https://api.listenbrainz.org/1/stats/user/${userName}/recordings?range=${config?.listenbrainz.range}&count=${config?.listenbrainz.count}`,
     {
       method: "GET",
       headers: {

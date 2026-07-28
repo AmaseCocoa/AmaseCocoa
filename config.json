@@ -1,7 +1,9 @@
 {
   "listenbrainz": {
     "enable": true,
-    "username": "AmaseCocoa"
+    "username": "AmaseCocoa",
+    "range": "all_time",
+    "count": 6
   },
   "feed": {
     "enable": true,
