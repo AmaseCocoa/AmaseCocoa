@@ -2,7 +2,7 @@ name: Daily Build and Push
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '35 */12 * * *'
   workflow_dispatch:
 
 jobs:
