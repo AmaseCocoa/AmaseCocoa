@@ -2,8 +2,8 @@
   "listenbrainz": {
     "enable": true,
     "username": "AmaseCocoa",
-    "range": "all_time",
-    "count": 6
+    "range": "week",
+    "count": 3
   },
   "feed": {
     "enable": true,
