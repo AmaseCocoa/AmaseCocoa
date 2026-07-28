@@ -33,7 +33,7 @@
 <!-- START-CAPELLA -->
 - [自分のブログのためにAstroテーマを書いてOSS化した](https://tw.amase.cc/articles/2026-07-27-%E8%87%AA%E5%88%86%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABastro%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6oss%E5%8C%96%E3%81%97%E3%81%9F/)
 - [ActivityPub実装の開発はおすすめしない](https://tw.amase.cc/articles/activitypub/)
-- [おすすめデバイスまとめ](https://tw.amase.cc/articles/gadgets-2026/)
+- [何を狂ったのかCMSを一から作った話](https://tw.amase.cc/articles/kokoromi/)
 <!-- END-CAPELLA -->
 
 
