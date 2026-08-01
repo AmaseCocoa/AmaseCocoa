@@ -61,6 +61,6 @@ async function processTemplate(text: string) {
 
   const { newReadme, feeds } = await processTemplate(readme.toString());
 
-  await fs.writeFile("feeds.json", feeds);
+  await fs.writeFile("feeds.json", JSON.stringify(feeds));
   await fs.writeFile("README.md", newReadme);
 })();
