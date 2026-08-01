@@ -13,6 +13,7 @@ if (!config) {
 async function processTemplate(text: string) {
   const pattern = /(<!-- START-(.*?) -->)([\s\S]*?)(<!-- END-.*? -->)/g;
   const parser = new Parser();
+  const feeds = [];
 
   const matches = [...text.matchAll(pattern)];
   let result = text;
@@ -35,6 +36,10 @@ async function processTemplate(text: string) {
         const links: string[] = [];
         feed.items.slice(0, section.limit).forEach((item) => {
           links.push(`- [${item.title}](${item.link})`);
+          feeds.push({
+            title: item.title,
+            link: item.link,
+          });
         });
 
         newContent = links.join("\n");
@@ -45,13 +50,17 @@ async function processTemplate(text: string) {
     }
   }
 
-  return result;
+  return {
+    readme: result,
+    feeds: feeds
+  };
 }
 
 (async () => {
   const readme = await fs.readFile("README.md");
 
-  const res = await processTemplate(readme.toString());
+  const { newReadme, feeds } = await processTemplate(readme.toString());
 
-  await fs.writeFile("README.md", res);
+  await fs.writeFile("feeds.json", feeds);
+  await fs.writeFile("README.md", newReadme);
 })();
