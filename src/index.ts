@@ -13,7 +13,10 @@ if (!config) {
 async function processTemplate(text: string) {
   const pattern = /(<!-- START-(.*?) -->)([\s\S]*?)(<!-- END-.*? -->)/g;
   const parser = new Parser();
-  const feeds = [];
+  const feeds: {
+    title: string;
+    link: string;
+  }[] = [];
 
   const matches = [...text.matchAll(pattern)];
   let result = text;
@@ -25,9 +28,9 @@ async function processTemplate(text: string) {
       const sectionName = match[2];
       const endTag = match[4];
 
-      let newContent: string = '';
+      let newContent: string = "";
       if (sectionName === "LISTENBRAINZ") {
-        newContent = await renderMarkdown('AmaseCocoa')
+        newContent = await renderMarkdown("AmaseCocoa");
       } else if (config.feed.enable) {
         const section = config.feed.config[sectionName];
 
@@ -35,24 +38,26 @@ async function processTemplate(text: string) {
 
         const links: string[] = [];
         feed.items.slice(0, section.limit).forEach((item) => {
-          links.push(`- [${item.title}](${item.link})`);
-          feeds.push({
-            title: item.title,
-            link: item.link,
-          });
+          if (item.title && item.link) {
+            links.push(`- [${item.title}](${item.link})`);
+            feeds.push({
+              title: item.title,
+              link: item.link,
+            });
+          }
         });
 
         newContent = links.join("\n");
       }
 
       const replacement = `${startTag}\n${newContent}\n${endTag}`;
-        result = result.replace(fullMatch, replacement);
+      result = result.replace(fullMatch, replacement);
     }
   }
 
   return {
     readme: result,
-    feeds: feeds
+    feeds: feeds,
   };
 }
 
@@ -61,6 +66,6 @@ async function processTemplate(text: string) {
 
   const { readme: newReadme, feeds } = await processTemplate(readme.toString());
 
-  await fs.writeFile("feeds.json", JSON.stringify(feeds));
+  await fs.writeFile("feeds.json", JSON.stringify(feeds, null, 2));
   await fs.writeFile("README.md", newReadme);
 })();
