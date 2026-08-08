@@ -1,9 +1,11 @@
 {
-  "listenbrainz": {
+  "lastfm": {
     "enable": true,
-    "username": "AmaseCocoa",
-    "range": "week",
+    "period": "7day",
     "count": 3
+  },
+  "listenbrainz": {
+    "enable": false
   },
   "feed": {
     "enable": true,

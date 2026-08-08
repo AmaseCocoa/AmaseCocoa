@@ -37,14 +37,39 @@ export const ResponseSchema = v.object({
   payload: PayloadSchema,
 });
 
+const lastFmTrack = v.object({
+  name: v.string(),
+  url: v.string(),
+  artist: v.object({
+    url: v.string(),
+    name: v.string()
+  }),
+  playcount: v.pipe(v.string(), v.toNumber())
+})
+
+const lastFmTopTracks = v.object({
+  track: v.array(lastFmTrack)
+})
+
+export const LastFmResponseSchema = v.object({
+  toptracks: lastFmTopTracks
+})
+
+export type LastFmResponseData = v.InferOutput<typeof LastFmResponseSchema>;
 export type ResponseData = v.InferOutput<typeof ResponseSchema>;
 
 const ConfigSchema = v.object({
+  lastfm: v.object({
+    enable: v.boolean(),
+    username: v.optional(v.string(), process.env.LASTFM_USERNAME ?? ''),
+    period: v.optional(v.picklist(['overall', '7day', '1month', '3month','6month','12month']), 'overall'),
+    count: v.optional(v.number())
+  }),
   listenbrainz: v.object({
     enable: v.boolean(),
-    username: v.string(),
-    range: v.string(),
-    count: v.number()
+    username: v.optional(v.string(), process.env.LISTENBRAINZ_USERNAME ?? ''),
+    range: v.optional(v.string()),
+    count: v.optional(v.number())
   }),
   feed: v.object({
     enable: v.boolean(),

@@ -2,6 +2,7 @@ import Parser from "rss-parser";
 import { parseConfig } from "./schema";
 import * as fs from "node:fs/promises";
 import { renderMarkdown } from "./listenbrainz";
+import { renderMarkdown as renderMarkdownLastFm } from "./lastfm";
 
 const config = parseConfig();
 
@@ -31,6 +32,8 @@ async function processTemplate(text: string) {
       let newContent: string = "";
       if (sectionName === "LISTENBRAINZ") {
         newContent = await renderMarkdown("AmaseCocoa");
+      } else if (sectionName === "LASTFM") {
+        newContent = await renderMarkdownLastFm("AmaseCocoa");
       } else if (config.feed.enable) {
         const section = config.feed.config[sectionName];
 
