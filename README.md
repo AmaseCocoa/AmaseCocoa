@@ -19,7 +19,11 @@
 <summary>最近聴いている曲 Top3</summary>
 
 <!-- START-LASTFM -->
-データなし
+| Artist | Track |
+| ---- | ---- |
+| [fripSide](https://www.last.fm/music/fripSide) | [only my railgun](https://www.last.fm/music/fripSide/_/only+my+railgun) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。(self cover)](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82(self+cover)) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [幻冬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%B9%BB%E5%86%AC) |
 <!-- END-LASTFM -->
 
 </details>
