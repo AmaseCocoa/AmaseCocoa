@@ -19,7 +19,7 @@
 <summary>最近聴いている曲 Top3</summary>
 
 <!-- START-LISTENBRAINZ -->
-データなし
+データの取得に失敗しました
 <!-- END-LISTENBRAINZ -->
 
 </details>
