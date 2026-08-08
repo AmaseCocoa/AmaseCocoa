@@ -1,15 +1,29 @@
 import * as v from "valibot";
-import { parseConfig, LastFmResponseSchema } from "./schema";
+import {
+  parseConfig,
+  LastFmResponseSchema,
+  LastFmResponseData,
+} from "./schema";
 
 const config = parseConfig();
 
-async function getRecentMusic(userName: string) {
+async function getRecentMusic(userName: string): Promise<
+  | {
+      success: true;
+      data: LastFmResponseData;
+    }
+  | {
+      success: false;
+      data: string;
+    }
+> {
   const result = await fetch(
     `https://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user=${userName}&api_key=${process.env.LASTFM_API_KEY}&period=${config?.lastfm.period}&limit=${config?.lastfm.count}&format=json`,
     {
       method: "GET",
       headers: {
-        'User-Agent': 'ProfileUpdater/0.1.0 (https://github.com/AmaseCocoa/AmaseCocoa)'
+        "User-Agent":
+          "ProfileUpdater/0.1.0 (https://github.com/AmaseCocoa/AmaseCocoa)",
       },
     },
   );
@@ -28,34 +42,28 @@ async function getRecentMusic(userName: string) {
 
   return {
     success: false,
-    data: null,
+    data: await result.text(),
   };
 }
 
 export async function renderMarkdown(username: string) {
   const result = await getRecentMusic(username);
 
-  if (!result.success && !result.data) {
-    return `データの取得に失敗しました`;
-  } else if (result.success && !result.data) {
-    return `データなし`
-  }
+  if (!result.success) {
+    return `データの取得に失敗しました: ${result.data}`;
+  } else if (result.success) {
+    const data = result.data?.toptracks.track ?? [];
 
-  const data = result.data?.toptracks.track ?? []
-
-  const baseTable = `| Artist | Track |
+    const baseTable = `| Artist | Track |
 | ---- | ---- |`;
-  let tableElem: string[] = [];
+    let tableElem: string[] = [];
 
-  data.map((d) => {
-    let artists: string[] = [];
-    artists.push(
-      `[${d.artist.name}](${d.artist.url})`,
-    );
-    tableElem.push(
-      `| ${artists.join(",")} | [${d.name}](${d.url}) |`,
-    );
-  });
+    data.map((d) => {
+      let artists: string[] = [];
+      artists.push(`[${d.artist.name}](${d.artist.url})`);
+      tableElem.push(`| ${artists.join(",")} | [${d.name}](${d.url}) |`);
+    });
 
-  return baseTable + "\n" + tableElem.join("\n");
+    return baseTable + "\n" + tableElem.join("\n");
+  }
 }

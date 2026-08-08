@@ -18,9 +18,9 @@
 <details>
 <summary>最近聴いている曲 Top3</summary>
 
-<!-- START-LISTENBRAINZ -->
-データの取得に失敗しました
-<!-- END-LISTENBRAINZ -->
+<!-- START-LASTFM -->
+データなし
+<!-- END-LASTFM -->
 
 </details>
 
