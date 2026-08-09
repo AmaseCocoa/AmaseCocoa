@@ -1,8 +1,5 @@
 実はここには何もないらしい
 
-<details>
-<summary>Stats</summary>
-
 <table border="0">
   <tr>
     <td align="center" width="300"><img src="https://streak-stats.demolab.com/?user=AmaseCocoa" alt="GitHub Streak" /></td>
@@ -11,9 +8,6 @@
   </tr>
 </table>
 
-</details>
-
-<br />
 
 <details>
 <summary>最近聴いている曲 Top3</summary>
