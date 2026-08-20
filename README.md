@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 | [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。(self cover)](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82(self+cover)) |
-| [子牛](https://www.last.fm/music/%E5%AD%90%E7%89%9B) | [秋の未確認生物(long ver) feat.音街ウナ](https://www.last.fm/music/%E5%AD%90%E7%89%9B/_/%E7%A7%8B%E3%81%AE%E6%9C%AA%E7%A2%BA%E8%AA%8D%E7%94%9F%E7%89%A9(long+ver)+feat.%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A) |
+| [Jin](https://www.last.fm/music/Jin) | [じん / サマータイムレコード (IA)](https://www.last.fm/music/Jin/_/%E3%81%98%E3%82%93+%2F+%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89+(IA)) |
 <!-- END-LASTFM -->
 
 </details>
