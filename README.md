@@ -16,8 +16,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [Jin](https://www.last.fm/music/Jin) | [じん / サマータイムレコード (IA)](https://www.last.fm/music/Jin/_/%E3%81%98%E3%82%93+%2F+%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89+(IA)) |
+| [椎名もた - トピック](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF) | [ストロボラスト](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%E3%83%A9%E3%82%B9%E3%83%88) |
 | [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
-| [子牛](https://www.last.fm/music/%E5%AD%90%E7%89%9B) | [秋の未確認生物(long ver) feat.音街ウナ](https://www.last.fm/music/%E5%AD%90%E7%89%9B/_/%E7%A7%8B%E3%81%AE%E6%9C%AA%E7%A2%BA%E8%AA%8D%E7%94%9F%E7%89%A9(long+ver)+feat.%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A) |
 <!-- END-LASTFM -->
 
 </details>
