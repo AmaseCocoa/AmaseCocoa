@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [Jin](https://www.last.fm/music/Jin) | [じん / サマータイムレコード (IA)](https://www.last.fm/music/Jin/_/%E3%81%98%E3%82%93+%2F+%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89+(IA)) |
 | [椎名もた - トピック](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF) | [ストロボラスト](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F+-+%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/_/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%9C%E3%83%A9%E3%82%B9%E3%83%88) |
-| [blackbear, it's different](https://www.last.fm/music/blackbear,+it%27s+different) | [fashion week (it's different remix)](https://www.last.fm/music/blackbear,+it%27s+different/_/fashion+week+(it%27s+different+remix)) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 <!-- END-LASTFM -->
 
 </details>
