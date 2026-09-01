@@ -16,8 +16,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [ぐっちゃぐちゃ](https://www.last.fm/music/%E3%81%90%E3%81%A3%E3%81%A1%E3%82%83%E3%81%90%E3%81%A1%E3%82%83) | [可不](https://www.last.fm/music/%E3%81%90%E3%81%A3%E3%81%A1%E3%82%83%E3%81%90%E3%81%A1%E3%82%83/_/%E5%8F%AF%E4%B8%8D) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 | [Neru](https://www.last.fm/music/Neru) | [ハウトゥー世界征服 feat.いかさん(カバー)](https://www.last.fm/music/Neru/_/%E3%83%8F%E3%82%A6%E3%83%88%E3%82%A5%E3%83%BC%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D+feat.%E3%81%84%E3%81%8B%E3%81%95%E3%82%93(%E3%82%AB%E3%83%90%E3%83%BC)) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 <!-- END-LASTFM -->
 
 </details>
