@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [Folicca](https://www.last.fm/music/Folicca) | [脳裏のマキナ / Folicca feat. 可不](https://www.last.fm/music/Folicca/_/%E8%84%B3%E8%A3%8F%E3%81%AE%E3%83%9E%E3%82%AD%E3%83%8A+%2F+Folicca+feat.+%E5%8F%AF%E4%B8%8D) |
 | [雫シークレットマインド](https://www.last.fm/music/%E9%9B%AB%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89) | [Autumn Sky - アプリ「SHOW BY ROCK!!」](https://www.last.fm/music/%E9%9B%AB%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89/_/Autumn+Sky+-+%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CSHOW+BY+ROCK!!%E3%80%8D) |
-| [Official髭男dism](https://www.last.fm/music/Official%E9%AB%AD%E7%94%B7dism) | [Subtitle](https://www.last.fm/music/Official%E9%AB%AD%E7%94%B7dism/_/Subtitle) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 <!-- END-LASTFM -->
 
 </details>
