@@ -16,8 +16,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) | [Stay](https://www.last.fm/music/The+Kid+LAROI/_/Stay) |
+| [雫シークレットマインド](https://www.last.fm/music/%E9%9B%AB%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89) | [Autumn Sky - アプリ「SHOW BY ROCK!!」](https://www.last.fm/music/%E9%9B%AB%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89/_/Autumn+Sky+-+%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8CSHOW+BY+ROCK!!%E3%80%8D) |
 | [Neru](https://www.last.fm/music/Neru) | [ロストワンの号哭](https://www.last.fm/music/Neru/_/%E3%83%AD%E3%82%B9%E3%83%88%E3%83%AF%E3%83%B3%E3%81%AE%E5%8F%B7%E5%93%AD) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [こいのうた](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E3%81%93%E3%81%84%E3%81%AE%E3%81%86%E3%81%9F) |
 <!-- END-LASTFM -->
 
 </details>
