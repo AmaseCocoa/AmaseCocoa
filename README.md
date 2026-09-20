@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
-| [Neru](https://www.last.fm/music/Neru) | [ハウトゥー世界征服 feat.いかさん(カバー)](https://www.last.fm/music/Neru/_/%E3%83%8F%E3%82%A6%E3%83%88%E3%82%A5%E3%83%BC%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D+feat.%E3%81%84%E3%81%8B%E3%81%95%E3%82%93(%E3%82%AB%E3%83%90%E3%83%BC)) |
 | [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [モノクロデイズ (RE:EDiT)](https://www.last.fm/music/O-VER-KiLL/_/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%87%E3%82%A4%E3%82%BA+(RE:EDiT)) |
 | [じん](https://www.last.fm/music/%E3%81%98%E3%82%93) | [アディショナルメモリー (新録)](https://www.last.fm/music/%E3%81%98%E3%82%93/_/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC+(%E6%96%B0%E9%8C%B2)) |
+| [MiMi](https://www.last.fm/music/MiMi) | [星涙哀歌](https://www.last.fm/music/MiMi/_/%E6%98%9F%E6%B6%99%E5%93%80%E6%AD%8C) |
 <!-- END-LASTFM -->
 
 </details>
