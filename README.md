@@ -38,6 +38,7 @@
 ### [Qiita](https://qiita.com/AmaseCocoa)
 
 <!-- START-QIITA -->
+- [Gitのためのユーザー管理ツールを作った](https://qiita.com/AmaseCocoa/items/d13152e94358e1e75b24)
 - [Discord Widgets v2でプロフィールをいい感じにしたかった](https://qiita.com/AmaseCocoa/items/1268a0a30dc2405d0e93)
 - [全文検索の仕組みが気になったので実装してみた](https://qiita.com/AmaseCocoa/items/f9a16ce8382e650381ba)
 <!-- END-QIITA -->
