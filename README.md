@@ -16,8 +16,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [じん](https://www.last.fm/music/%E3%81%98%E3%82%93) | [アディショナルメモリー (新録)](https://www.last.fm/music/%E3%81%98%E3%82%93/_/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC+(%E6%96%B0%E9%8C%B2)) |
-| [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [モノクロデイズ (RE:EDiT)](https://www.last.fm/music/O-VER-KiLL/_/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%87%E3%82%A4%E3%82%BA+(RE:EDiT)) |
 | [ナナツカゼ](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%84%E3%82%AB%E3%82%BC) | [あのね](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%84%E3%82%AB%E3%82%BC/_/%E3%81%82%E3%81%AE%E3%81%AD) |
+| [blackbear](https://www.last.fm/music/blackbear) | [fashion week (it's different remix)](https://www.last.fm/music/blackbear/_/fashion+week+(it%27s+different+remix)) |
 <!-- END-LASTFM -->
 
 </details>
