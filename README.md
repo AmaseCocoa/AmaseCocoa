@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [164](https://www.last.fm/music/164) | [天ノ弱](https://www.last.fm/music/164/_/%E5%A4%A9%E3%83%8E%E5%BC%B1) |
 | [blackbear](https://www.last.fm/music/blackbear) | [fashion week (it's different remix)](https://www.last.fm/music/blackbear/_/fashion+week+(it%27s+different+remix)) |
-| [Neru](https://www.last.fm/music/Neru) | [ハウトゥー世界征服 feat.いかさん(カバー)](https://www.last.fm/music/Neru/_/%E3%83%8F%E3%82%A6%E3%83%88%E3%82%A5%E3%83%BC%E4%B8%96%E7%95%8C%E5%BE%81%E6%9C%8D+feat.%E3%81%84%E3%81%8B%E3%81%95%E3%82%93(%E3%82%AB%E3%83%90%E3%83%BC)) |
+| [MiMi](https://www.last.fm/music/MiMi) | [星涙哀歌](https://www.last.fm/music/MiMi/_/%E6%98%9F%E6%B6%99%E5%93%80%E6%AD%8C) |
 <!-- END-LASTFM -->
 
 </details>
