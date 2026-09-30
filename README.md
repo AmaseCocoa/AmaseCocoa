@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
-| [164](https://www.last.fm/music/164) | [天ノ弱](https://www.last.fm/music/164/_/%E5%A4%A9%E3%83%8E%E5%BC%B1) |
 | [aiko](https://www.last.fm/music/aiko) | [花火](https://www.last.fm/music/aiko/_/%E8%8A%B1%E7%81%AB) |
 | [MiMi](https://www.last.fm/music/MiMi) | [星涙哀歌](https://www.last.fm/music/MiMi/_/%E6%98%9F%E6%B6%99%E5%93%80%E6%AD%8C) |
+| [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [モノクロデイズ (RE:EDiT)](https://www.last.fm/music/O-VER-KiLL/_/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%87%E3%82%A4%E3%82%BA+(RE:EDiT)) |
 <!-- END-LASTFM -->
 
 </details>
