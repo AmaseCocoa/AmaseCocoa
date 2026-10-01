@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [幻冬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%B9%BB%E5%86%AC) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [生前葬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E7%94%9F%E5%89%8D%E8%91%AC) |
 | [斎木達彦](https://www.last.fm/music/%E6%96%8E%E6%9C%A8%E9%81%94%E5%BD%A6) | [Operation](https://www.last.fm/music/%E6%96%8E%E6%9C%A8%E9%81%94%E5%BD%A6/_/Operation) |
-| [松本晃彦](https://www.last.fm/music/%E6%9D%BE%E6%9C%AC%E6%99%83%E5%BD%A6) | [RHYTHM AND POLICE](https://www.last.fm/music/%E6%9D%BE%E6%9C%AC%E6%99%83%E5%BD%A6/_/RHYTHM+AND+POLICE) |
-| [164](https://www.last.fm/music/164) | [天ノ弱](https://www.last.fm/music/164/_/%E5%A4%A9%E3%83%8E%E5%BC%B1) |
 <!-- END-LASTFM -->
 
 </details>
