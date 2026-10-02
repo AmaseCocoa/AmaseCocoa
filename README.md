@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
+| [Anamanaguchi](https://www.last.fm/music/Anamanaguchi) | [Miku](https://www.last.fm/music/Anamanaguchi/_/Miku) |
 | [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [RAiSE MY REVOLUTiON](https://www.last.fm/music/O-VER-KiLL/_/RAiSE+MY+REVOLUTiON) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [幻冬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%B9%BB%E5%86%AC) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [生前葬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E7%94%9F%E5%89%8D%E8%91%AC) |
+| [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) | [Stay](https://www.last.fm/music/The+Kid+LAROI/_/Stay) |
 <!-- END-LASTFM -->
 
 </details>
