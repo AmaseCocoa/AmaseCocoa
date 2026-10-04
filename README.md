@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
+| [河野マリナ](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A) | [消えるdaydream](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A/_/%E6%B6%88%E3%81%88%E3%82%8Bdaydream) |
 | [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) | [Stay](https://www.last.fm/music/The+Kid+LAROI/_/Stay) |
 | [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [幻冬](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%B9%BB%E5%86%AC) |
-| [河野マリナ](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A) | [消えるdaydream](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A/_/%E6%B6%88%E3%81%88%E3%82%8Bdaydream) |
 <!-- END-LASTFM -->
 
 </details>
