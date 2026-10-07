@@ -15,8 +15,8 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
-| [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [海街グラフィティ](https://www.last.fm/music/O-VER-KiLL/_/%E6%B5%B7%E8%A1%97%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3) |
 | [河野マリナ](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A) | [消えるdaydream](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A/_/%E6%B6%88%E3%81%88%E3%82%8Bdaydream) |
+| [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [海街グラフィティ](https://www.last.fm/music/O-VER-KiLL/_/%E6%B5%B7%E8%A1%97%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3) |
 | [The Kid LAROI](https://www.last.fm/music/The+Kid+LAROI) | [Stay](https://www.last.fm/music/The+Kid+LAROI/_/Stay) |
 <!-- END-LASTFM -->
 
