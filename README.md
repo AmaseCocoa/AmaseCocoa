@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [海街グラフィティ](https://www.last.fm/music/O-VER-KiLL/_/%E6%B5%B7%E8%A1%97%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3) |
 | [河野マリナ](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A) | [消えるdaydream](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A/_/%E6%B6%88%E3%81%88%E3%82%8Bdaydream) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。(self cover)](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82(self+cover)) |
+| [メーメントヴァニタス](https://www.last.fm/music/%E3%83%A1%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9) | [花火 - aiko (cover)](https://www.last.fm/music/%E3%83%A1%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9/_/%E8%8A%B1%E7%81%AB+-+aiko+(cover)) |
 <!-- END-LASTFM -->
 
 </details>
