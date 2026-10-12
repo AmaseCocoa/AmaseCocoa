@@ -16,7 +16,7 @@
 | Artist | Track |
 | ---- | ---- |
 | [O-VER-KiLL](https://www.last.fm/music/O-VER-KiLL) | [海街グラフィティ](https://www.last.fm/music/O-VER-KiLL/_/%E6%B5%B7%E8%A1%97%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%86%E3%82%A3) |
-| [メーメントヴァニタス](https://www.last.fm/music/%E3%83%A1%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9) | [花火 - aiko (cover)](https://www.last.fm/music/%E3%83%A1%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%BF%E3%82%B9/_/%E8%8A%B1%E7%81%AB+-+aiko+(cover)) |
+| [クワガタP](https://www.last.fm/music/%E3%82%AF%E3%83%AF%E3%82%AC%E3%82%BFP) | [君の体温 (feat. 初音ミク)](https://www.last.fm/music/%E3%82%AF%E3%83%AF%E3%82%AC%E3%82%BFP/_/%E5%90%9B%E3%81%AE%E4%BD%93%E6%B8%A9+(feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)) |
 | [河野マリナ](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A) | [消えるdaydream](https://www.last.fm/music/%E6%B2%B3%E9%87%8E%E3%83%9E%E3%83%AA%E3%83%8A/_/%E6%B6%88%E3%81%88%E3%82%8Bdaydream) |
 <!-- END-LASTFM -->
 
