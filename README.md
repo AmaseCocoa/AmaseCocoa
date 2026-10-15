@@ -15,9 +15,9 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
-| [ナナホシ管弦楽団](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3) | [路地裏アンダードッグ feat.音街ウナ](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3/_/%E8%B7%AF%E5%9C%B0%E8%A3%8F%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%83%E3%82%B0+feat.%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A) |
 | [白上フブキ](https://www.last.fm/music/%E7%99%BD%E4%B8%8A%E3%83%95%E3%83%96%E3%82%AD) | [閃光のように](https://www.last.fm/music/%E7%99%BD%E4%B8%8A%E3%83%95%E3%83%96%E3%82%AD/_/%E9%96%83%E5%85%89%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB) |
-| [じん](https://www.last.fm/music/%E3%81%98%E3%82%93) | [アディショナルメモリー (新録)](https://www.last.fm/music/%E3%81%98%E3%82%93/_/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC+(%E6%96%B0%E9%8C%B2)) |
+| [ナナホシ管弦楽団](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3) | [路地裏アンダードッグ feat.音街ウナ](https://www.last.fm/music/%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7%E7%AE%A1%E5%BC%A6%E6%A5%BD%E5%9B%A3/_/%E8%B7%AF%E5%9C%B0%E8%A3%8F%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%83%E3%82%B0+feat.%E9%9F%B3%E8%A1%97%E3%82%A6%E3%83%8A) |
+| [白上フブキ](https://www.last.fm/music/%E7%99%BD%E4%B8%8A%E3%83%95%E3%83%96%E3%82%AD) | [HAPPY BANG!](https://www.last.fm/music/%E7%99%BD%E4%B8%8A%E3%83%95%E3%83%96%E3%82%AD/_/HAPPY+BANG!) |
 <!-- END-LASTFM -->
 
 </details>
