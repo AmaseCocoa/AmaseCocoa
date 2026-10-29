@@ -15,8 +15,8 @@
 <!-- START-LASTFM -->
 | Artist | Track |
 | ---- | ---- |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82) |
 | [さユり](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A) | [航海の唄](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A/_/%E8%88%AA%E6%B5%B7%E3%81%AE%E5%94%84) |
+| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82) |
 | [PompadollS](https://www.last.fm/music/PompadollS) | [ASURA](https://www.last.fm/music/PompadollS/_/ASURA) |
 <!-- END-LASTFM -->
 
