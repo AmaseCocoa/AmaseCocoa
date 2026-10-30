@@ -16,8 +16,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [さユり](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A) | [航海の唄](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A/_/%E8%88%AA%E6%B5%B7%E3%81%AE%E5%94%84) |
-| [あだちかすか](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B) | [僕が悪いんですか。](https://www.last.fm/music/%E3%81%82%E3%81%A0%E3%81%A1%E3%81%8B%E3%81%99%E3%81%8B/_/%E5%83%95%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E3%80%82) |
-| [星街すいせい](https://www.last.fm/music/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84) | [灼熱にて純情(wii-wii-woo)](https://www.last.fm/music/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84/_/%E7%81%BC%E7%86%B1%E3%81%AB%E3%81%A6%E7%B4%94%E6%83%85(wii-wii-woo)) |
+| [椎名もた](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F) | [少女A](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F/_/%E5%B0%91%E5%A5%B3A) |
+| [cosMo@暴走P](https://www.last.fm/music/cosMo@%E6%9A%B4%E8%B5%B0P) | [初音ミクの消失 (feat. 初音ミク)](https://www.last.fm/music/cosMo@%E6%9A%B4%E8%B5%B0P/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E6%B6%88%E5%A4%B1+(feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)) |
 <!-- END-LASTFM -->
 
 </details>
