@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [さユり](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A) | [航海の唄](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A/_/%E8%88%AA%E6%B5%B7%E3%81%AE%E5%94%84) |
 | [椎名もた](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F) | [少女A](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E3%82%82%E3%81%9F/_/%E5%B0%91%E5%A5%B3A) |
-| [cosMo@暴走P](https://www.last.fm/music/cosMo@%E6%9A%B4%E8%B5%B0P) | [初音ミクの消失 (feat. 初音ミク)](https://www.last.fm/music/cosMo@%E6%9A%B4%E8%B5%B0P/_/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E3%81%AE%E6%B6%88%E5%A4%B1+(feat.+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF)) |
+| [Orangestar](https://www.last.fm/music/Orangestar) | [回る空うさぎ](https://www.last.fm/music/Orangestar/_/%E5%9B%9E%E3%82%8B%E7%A9%BA%E3%81%86%E3%81%95%E3%81%8E) |
 <!-- END-LASTFM -->
 
 </details>
