@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [Orangestar](https://www.last.fm/music/Orangestar) | [回る空うさぎ](https://www.last.fm/music/Orangestar/_/%E5%9B%9E%E3%82%8B%E7%A9%BA%E3%81%86%E3%81%95%E3%81%8E) |
 | [PompadollS](https://www.last.fm/music/PompadollS) | [ASURA](https://www.last.fm/music/PompadollS/_/ASURA) |
-| [FUNKY MONKEY BABYS](https://www.last.fm/music/FUNKY+MONKEY+BABYS) | [あとひとつ](https://www.last.fm/music/FUNKY+MONKEY+BABYS/_/%E3%81%82%E3%81%A8%E3%81%B2%E3%81%A8%E3%81%A4) |
+| [さユり](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A) | [航海の唄](https://www.last.fm/music/%E3%81%95%E3%83%A6%E3%82%8A/_/%E8%88%AA%E6%B5%B7%E3%81%AE%E5%94%84) |
 <!-- END-LASTFM -->
 
 </details>
