@@ -17,7 +17,7 @@
 | ---- | ---- |
 | [Ado](https://www.last.fm/music/Ado) | [Odo](https://www.last.fm/music/Ado/_/Odo) |
 | [上海アリス幻樂団](https://www.last.fm/music/%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) | [ハルトマンの妖怪少女](https://www.last.fm/music/%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3/_/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3) |
-| [ビートまりお](https://www.last.fm/music/%E3%83%93%E3%83%BC%E3%83%88%E3%81%BE%E3%82%8A%E3%81%8A) | [ナイト・オブ・ナイツ](https://www.last.fm/music/%E3%83%93%E3%83%BC%E3%83%88%E3%81%BE%E3%82%8A%E3%81%8A/_/%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84) |
+| [キタニタツヤ](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4) | [悪魔の踊り方](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4/_/%E6%82%AA%E9%AD%94%E3%81%AE%E8%B8%8A%E3%82%8A%E6%96%B9) |
 <!-- END-LASTFM -->
 
 </details>
