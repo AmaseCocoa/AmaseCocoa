@@ -18,8 +18,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [キタニタツヤ](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4) | [悪魔の踊り方](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4/_/%E6%82%AA%E9%AD%94%E3%81%AE%E8%B8%8A%E3%82%8A%E6%96%B9) |
+| [東京事変](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89) | [群青日和](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89/_/%E7%BE%A4%E9%9D%92%E6%97%A5%E5%92%8C) |
 | [Ado](https://www.last.fm/music/Ado) | [Odo](https://www.last.fm/music/Ado/_/Odo) |
-| [椎名林檎](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E) | [丸の内サディスティック](https://www.last.fm/music/%E6%A4%8E%E5%90%8D%E6%9E%97%E6%AA%8E/_/%E4%B8%B8%E3%81%AE%E5%86%85%E3%82%B5%E3%83%87%E3%82%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF) |
 <!-- END-LASTFM -->
 
 </details>
