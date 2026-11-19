@@ -18,8 +18,8 @@
 | Artist | Track |
 | ---- | ---- |
 | [キタニタツヤ](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4) | [悪魔の踊り方](https://www.last.fm/music/%E3%82%AD%E3%82%BF%E3%83%8B%E3%82%BF%E3%83%84%E3%83%A4/_/%E6%82%AA%E9%AD%94%E3%81%AE%E8%B8%8A%E3%82%8A%E6%96%B9) |
-| [Machi](https://www.last.fm/music/Machi) | [アスターノーツ](https://www.last.fm/music/Machi/_/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84) |
 | [東京事変](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89) | [群青日和](https://www.last.fm/music/%E6%9D%B1%E4%BA%AC%E4%BA%8B%E5%A4%89/_/%E7%BE%A4%E9%9D%92%E6%97%A5%E5%92%8C) |
+| [Machi](https://www.last.fm/music/Machi) | [アスターノーツ](https://www.last.fm/music/Machi/_/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84) |
 <!-- END-LASTFM -->
 
 </details>
