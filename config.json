@@ -1,11 +1,14 @@
 {
   "lastfm": {
-    "enable": true,
+    "enable": false,
     "period": "7day",
     "count": 3
   },
   "listenbrainz": {
-    "enable": false
+    "enable": true,
+    "username": "AmaseCocoa",
+    "range": "week",
+    "count": 3
   },
   "feed": {
     "enable": true,
